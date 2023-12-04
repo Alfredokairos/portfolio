@@ -31,4 +31,12 @@
 - Download and management of temperature (GHRSST satellite), chlorophyll (Copernicus satellite), and bathymetry (GEBCO project) data.
 
   
-### Projects
+## Projects
+### Pocillopora restoration at the south of Danzante island, Loreto, Baja California Sur.
+Developed an objective method to identify the corals between rocks and sand using Semi automatic plugin and Vegetation Index applied in QGIS. This data led to monitoring the healthy stage of the corals over the course of a year. The method provides cover percentage of healthy coral, bleach coral, and dead coral. 
+
+### Evaluation of tourism activities that threats marine megafauna and fishes with spearfishing to develop a management plan in Bahía La Ventana, Baja California Sur, México
+Developed interactive maps (heatmaps, timelapse) of marine megafauna to see their distribution all around the bay. This data was the first step to create management plans to specific species, like the killer whale. The heatmaps helped the people to see where each species is concentrated.  
+
+### Blue carbon in Mexico.
+Elaborated a methodology identifying mangrooves species using supervised classification in QGIS. This was part of a big project.  
