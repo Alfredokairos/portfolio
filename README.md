@@ -5,7 +5,7 @@
 - B.S., Marine biology | Universidad Autónoma de Baja California Sur (March 2018)
 
 ### Work Experience
-## Data Scientist @ Maris Consultant (June 2023 - Present)
+#### Data Scientist @ Maris Consultant (June 2023 - Present)
 - Coral cover percentage from underwater photogrammetry
 - time series, climatologies from temperature and chlorophyll satellites data
 
