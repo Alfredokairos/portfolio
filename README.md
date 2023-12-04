@@ -1,10 +1,10 @@
 # Data Scientist
 
-###Education
+### Education
 - M.S. Marine ecology | Centro de Investigación Científica y de Educación Superior de Ensenada, Baja California (CICESE) (November 2021)
 - B.S., Marine biology | Universidad Autónoma de Baja California Sur (March 2018)
 
-###Work Experience
+### Work Experience
 Data Scientist @ Maris Consultant (June 2023 - Present)
 - Coral cover percentage from underwater photogrammetry
 - time series, climatologies from temperature and chlorophyll satellites data
@@ -31,4 +31,4 @@ Data Scientist @ CICESE (February 2018 - August 2019)
 - Download and management of temperature (GHRSST satellite), chlorophyll (Copernicus satellite), and bathymetry (GEBCO project) data.
 
   
-###Projects
+### Projects
