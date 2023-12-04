@@ -24,7 +24,7 @@
 #### Data Scientist @ CICESE (_February 2018 - August 2019_)
 - Database cleaning 
 - Interactive maps using GPS coordinates.
-- Comparison between in-situ and satellite data.
+- Comparison between in-_situ_ and satellite data.
 - Processing and digitalizing bathymetric data using an echo sounder and visualized through QGIS.
 - Normalized vegetation index estimation and the modified normalized difference water index in Espiritu Santo Island.
 - Supervised and unsupervised classification from photogrammetry maps.
