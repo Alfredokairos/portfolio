@@ -9,19 +9,19 @@
 - Coral cover percentage from underwater photogrammetry
 - time series, climatologies from temperature and chlorophyll satellites data
 
-Data Science Consultant @ Pelagios Kakunjá Marine Conservation (March 2023 - June 2023)
+#### Data Science Consultant @ Pelagios Kakunjá Marine Conservation (March 2023 - June 2023)
 - Interactive maps with georreference data (species distributions maps, heatmaps and timelapse).
 - Database cleaning (from kmz file to csv file).
 
-Data Science Consultant @ Centro para la Biodiversidad Marina y la Conservación (January 2023 - March 2023)
+#### Data Science Consultant @ Centro para la Biodiversidad Marina y la Conservación (January 2023 - March 2023)
 - Supervised and unsupervised clasification with Orfeo toolbox in QGIS, croos validation, and Vegetation index.
 
-Data Scientist @ CICESE (March 2022 - November 2022)
+#### Data Scientist @ CICESE (March 2022 - November 2022)
 - Sentinel 2, PlanetScope, and Landsat 9 satellite images management with Google Earth Engine.
 - Satellite Derived Bathymetry using Lyzenga method with Sentinel 2.
 - Sentienl 2 image management using Geemap library in Python.
 
-Data Scientist @ CICESE (February 2018 - August 2019)
+#### Data Scientist @ CICESE (February 2018 - August 2019)
 - Database cleaning 
 - Interactive maps using GPS coordinates.
 - Comparison between in-situ and satellite data.
