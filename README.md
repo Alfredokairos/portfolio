@@ -21,7 +21,7 @@
 - Satellite Derived Bathymetry using Lyzenga method with Sentinel 2.
 - Sentienl 2 image management using Geemap library in Python.
 
-#### Data Scientist @ CICESE (_February 2018 - August 2019_)
+#### Data Scientist @ CICESE and World Wildlife Foundation (WWF) (_February 2018 - August 2019_)
 - Database cleaning 
 - Interactive maps using GPS coordinates.
 - Comparison between in-_situ_ and satellite data.
@@ -36,7 +36,11 @@
 Developed an objective method to identify the corals between rocks and sand using Semi automatic plugin and Vegetation Index applied in QGIS. This data led to monitoring the healthy stage of the corals over the course of a year. The method provides cover percentage of healthy coral, bleach coral, and dead coral. 
 
 ### Evaluation of tourism activities that threats marine megafauna and fishes with spearfishing to develop a management plan in Bahía La Ventana, Baja California Sur, México
-Developed interactive maps (heatmaps, timelapse) of marine megafauna to see their distribution all around the bay. This data was the first step to create management plans to specific species, like the killer whale. The heatmaps helped the people to see where each species is concentrated.  
+Developed interactive maps (heatmaps, timelapse) of marine megafauna to see their distribution all around the bay. This data was the first step to create management plans to specific species, like the killer whale. The heatmaps helped the people to see where each species were concentrated.
 
-### Blue carbon in Mexico.
-Elaborated a methodology identifying mangrooves species using supervised classification in QGIS. This was part of a big project.  
+### Study of the hydrodynamic interaction between coastal lagoons and adjacent Mexican seas.
+Used Google Earth Engine to obtain bathymetry data using echo-sound data and sentinel 2. We applied the Lyzenga method, which is a linear regression model to obtain the bathymetry trhough two visible bands (blue and green) from satellite images. This method requires depth measurements to calibrate the satellite's images. We obtained an excellent bathymetry between 0 and 15 meters of the coastal lagoon from Magdalena Bay, Mexico.
+
+### Shark whale distribution in La Paz Bay, B.C.S. Mexico.
+Developed multiple interactive maps to see the distribution of the shark whale all over an area and 
+### 
