@@ -32,6 +32,11 @@
 
   
 ## Projects
+
+### Identification of shark species based on their dry dorsal fins through image processing
+[Publication](https://www.mdpi.com/2076-3417/12/22/11646)
+Developed two methodologies for the shark dry fins identification with image processing. The first methodology used a non-linear composite filter using Fourier Transforms for each species, and we obtained 100% sensitivity and specificity. The second methodology was a neural network that achieved 90% of efficiency. The neural network proved to be the most robust methodology because it supportes lower-queality images.
+
 ### Pocillopora restoration at the south of Danzante island, Loreto, Baja California Sur.
 Developed an objective method to identify the corals between rocks and sand using Semi automatic plugin and Vegetation Index applied in QGIS. This data led to monitoring the healthy stage of the corals over the course of a year. The method provides cover percentage of healthy coral, bleach coral, and dead coral. 
 
@@ -42,5 +47,9 @@ Developed interactive maps (heatmaps, timelapse) of marine megafauna to see thei
 Used Google Earth Engine to obtain bathymetry data using echo-sound data and sentinel 2. We applied the Lyzenga method, which is a linear regression model to obtain the bathymetry trhough two visible bands (blue and green) from satellite images. This method requires depth measurements to calibrate the satellite's images. We obtained an excellent bathymetry between 0 and 15 meters of the coastal lagoon from Magdalena Bay, Mexico.
 
 ### Shark whale distribution in La Paz Bay, B.C.S. Mexico.
-Developed multiple interactive maps to see the distribution of the shark whale all over an area and 
-### 
+Developed multiple interactive maps to see the distribution of the whale shark all and the interaction with the tourism all over an area. We discovered that the tourist operators were chasing and driving fast near the whale sharks.
+
+
+## Publication
+- Carrillo-Aguilar L.A., Guerra-Rosas E., Álvarez-Borrego J., Echavarría-Heras H.A., Hernández-Muñóz S. Identification of shark species based on their dry dorsal fins through image processing. (2022). https://doi.org/10.3390/app122211646 
+
