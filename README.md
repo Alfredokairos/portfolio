@@ -35,6 +35,7 @@
 
 ### Identification of shark species based on their dry dorsal fins through image processing
 [Publication](https://www.mdpi.com/2076-3417/12/22/11646)
+
 Developed two methodologies for the shark dry fins identification with image processing. The first methodology used a non-linear composite filter using Fourier Transforms for each species, and we obtained 100% sensitivity and specificity. The second methodology was a neural network that achieved 90% of efficiency. The neural network proved to be the most robust methodology because it supportes lower-queality images.
 
 ### Pocillopora restoration at the south of Danzante island, Loreto, Baja California Sur.
