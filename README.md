@@ -48,7 +48,7 @@ Developed interactive maps (heatmaps, timelapse) of marine megafauna to see thei
 Used Google Earth Engine to obtain bathymetry data using echo-sound data and sentinel 2. We applied the Lyzenga method, which is a linear regression model to obtain the bathymetry trhough two visible bands (blue and green) from satellite images. This method requires depth measurements to calibrate the satellite's images. We obtained an excellent bathymetry between 0 and 15 meters of the coastal lagoon from Magdalena Bay, Mexico.
 
 ### Shark whale distribution in La Paz Bay, B.C.S. Mexico.
-Developed multiple interactive maps to see the distribution of the whale shark all and the interaction with the tourism all over an area. We discovered that the tourist operators were chasing and driving fast near the whale sharks.
+Developed multiple interactive maps to see the distribution of the whale shark and the interaction with the tourism all over an area. We discovered that the tourist operators were chasing and driving fast near the whale sharks. The speed of each boat was reported.
 
 
 ## Publication
