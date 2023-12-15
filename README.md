@@ -40,6 +40,7 @@ Developed two methodologies for the shark dry fins identification with image pro
 
 #### Pocillopora restoration at the south of Danzante island, Loreto, Baja California Sur.
 Developed an objective method to identify the corals between rocks and sand using Semi automatic plugin and Vegetation Index applied in QGIS. This data led to monitoring the healthy stage of the corals over the course of a year. The method provides cover percentage of healthy coral, bleach coral, and dead coral. 
+
 ![Coral cover coverage](https://github.com/Alfredokairos/portfolio/blob/main/imagenes/mapa_clasificaci%C3%B3n.png)
 
 #### Evaluation of tourism activities that threats marine megafauna and fishes with spearfishing to develop a management plan in Bahía La Ventana, Baja California Sur, México.
