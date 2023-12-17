@@ -38,6 +38,11 @@
 
 Developed two methodologies for the shark dry fins identification with image processing. The first methodology used a non-linear composite filter using Fourier Transforms for each species, and we obtained 100% sensitivity and specificity. The second methodology was a neural network that achieved 90% of efficiency. The neural network proved to be the most robust methodology because it supportes lower-queality images.
 
+#### Management plan for _Orcinus orca_ in La Ventana and El Sargento Baja California Sur.
+Developed time series, temperature and chlorophyll climatologies, and bathymetry maps collectively offer a robust understanding of the oceanographic variables within the studied area.
+
+![Clorophyll climatology](https://github.com/Alfredokairos/portfolio/blob/main/imagenes/Climatolog%C3%ADa_2022_clo.png)
+
 #### Pocillopora restoration at the south of Danzante island, Loreto, Baja California Sur.
 Developed an objective method to identify the corals between rocks and sand using Semi automatic plugin and Vegetation Index applied in QGIS. This data led to monitoring the healthy stage of the corals over the course of a year. The method provides cover percentage of healthy coral, bleach coral, and dead coral. 
 
@@ -46,8 +51,12 @@ Developed an objective method to identify the corals between rocks and sand usin
 #### Evaluation of tourism activities that threats marine megafauna and fishes with spearfishing to develop a management plan in Bahía La Ventana, Baja California Sur, México.
 Developed interactive maps (heatmaps, timelapse) of marine megafauna to see their distribution all around the bay. This data was the first step to create management plans to specific species, like the killer whale. The heatmaps helped the people to see where each species were concentrated.
 
+![marine megafauna heatmap](https://github.com/Alfredokairos/portfolio/blob/main/imagenes/mapa_calor.png)
+
 #### Study of the hydrodynamic interaction between coastal lagoons and adjacent Mexican seas.
 Used Google Earth Engine to obtain bathymetry data using echo-sound data and sentinel 2. We applied the Lyzenga method, which is a linear regression model to obtain the bathymetry trhough two visible bands (blue and green) from satellite images. This method requires depth measurements to calibrate the satellite's images. We obtained an excellent bathymetry between 0 and 15 meters of the coastal lagoon from Magdalena Bay, Mexico.
+
+![Bathymetry data between satellite image and echosound data](https://github.com/Alfredokairos/portfolio/blob/main/imagenes/Comparaci%C3%B3n%20entre%202015_2022.png)
 
 #### Shark whale distribution in La Paz Bay, B.C.S. Mexico.
 Developed multiple interactive maps to see the distribution of the whale shark and the interaction with the tourism all over an area. We discovered that the tourist operators were chasing and driving fast near the whale sharks. The speed of each boat was reported.
