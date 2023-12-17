@@ -38,7 +38,7 @@
 
 Developed two methodologies for the shark dry fins identification with image processing. The first methodology used a non-linear composite filter using Fourier Transforms for each species, and we obtained 100% sensitivity and specificity. The second methodology was a neural network that achieved 90% of efficiency. The neural network proved to be the most robust methodology because it supportes lower-queality images.
 
-#### Pocillopora restoration at the south of Danzante island, Loreto, Baja California Sur.
+#### Coral restoration at the south of Danzante island, Loreto, Baja California Sur.
 Developed an objective method to identify the corals between rocks and sand using Semi automatic plugin and Vegetation Index applied in QGIS. This data led to monitoring the healthy stage of the corals over the course of a year. The method provides cover percentage of healthy coral, bleach coral, and dead coral. 
 
 ![Coral cover coverage](https://github.com/Alfredokairos/portfolio/blob/main/imagenes/mapa_clasificaci%C3%B3n.png)
